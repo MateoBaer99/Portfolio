@@ -37,10 +37,3 @@ python -m http.server 8000
 npx serve .
 ```
 
-Then visit `http://localhost:8000`.
-
-## Contact
-
-- Email: mateobaer38@hotmail.com
-- Phone: +33 7 67 58 43 55
-- Location: Toulouse, France
